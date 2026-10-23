@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "TabletopGames Resource Pack",
+    "description": "休闲游戏合集资源包：五子棋 / 中国象棋 / 斗兽棋 / 黑白棋 / 围棋 / 军旗、UNO 与斗地主（Nukkit-MOT 服务端内置）",
+    "uuid": "3dd308f3-b535-4494-aba2-ecde406a3012",
+    "version": [
+      1,
+      22,
+      90
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "8dc3a2d4-9120-4c66-bf3c-d012be0943d0",
+      "version": [
+        1,
+        22,
+        90
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"tabletopgame:uno_clickbox","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/uno/uno_atlas"},"geometry":{"default":"geometry.tabletopgame.uno_clickbox"},"render_controllers":["controller.render.tabletopgame.uno_clickbox"]}}}
